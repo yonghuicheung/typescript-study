@@ -1,0 +1,30 @@
+{
+  "name": "typescript-study",
+  "version": "1.0.0",
+  "description": "typescript学习日记",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint src --ext .ts",
+    "compile": "rm -rf ./dist && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonghuicheung/typescript-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yonghuicheung/typescript-study/issues"
+  },
+  "homepage": "https://github.com/yonghuicheung/typescript-study#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.16.1",
+    "@typescript-eslint/parser": "^4.16.1",
+    "eslint": "^7.21.0",
+    "eslint-config-alloy": "^3.10.0",
+    "prettier": "^2.2.1",
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {}
+}
