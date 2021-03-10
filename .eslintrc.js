@@ -3,7 +3,7 @@
  * @Autor: zhangyonghui
  * @Date: 2021-03-08 15:21:11
  * @LastEditors: zhangyonghui
- * @LastEditTime: 2021-03-09 20:30:42
+ * @LastEditTime: 2021-03-10 17:02:33
  */
 module.exports = {
   extends: ["alloy", "alloy/typescript"],
@@ -32,5 +32,9 @@ module.exports = {
     "@typescript-eslint/no-invalid-void-type": 0,
     "@typescript-eslint/prefer-function-type": 0,
     "no-new-wrappers": 0,
+    "@typescript-eslint/consistent-type-assertions": 0,
+    "@typescript-eslint/explicit-member-accessibility": 0,
+    "@typescript-eslint/no-useless-constructor": 0,
+    "@typescript-eslint/no-parameter-properties": 0,
   },
 };

@@ -1,5 +1,5 @@
 /*
- * @Description:
+ * @Description: ts学习day-01
  * @Autor: zhangyonghui
  * @Date: 2021-03-08 15:24:03
  * @LastEditors: zhangyonghui
